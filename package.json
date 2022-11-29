@@ -1,0 +1,25 @@
+{
+  "name": "nestjs",
+  "version": "1.0.0",
+  "description": "ts_prac",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhnvx/nestjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhnvx/nestjs/issues"
+  },
+  "homepage": "https://github.com/bhnvx/nestjs#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
